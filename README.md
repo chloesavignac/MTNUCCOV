@@ -1,4 +1,4 @@
-# Code for *Mitochondrial-nuclear crosstalk characterizes Alzheimer's disease across 1.5 million brain cells*
+# Code for *Mitochondria-nucleus crosstalk characterizes Alzheimer's disease across 1.5 million brain cells*
 
 This repository contains the analysis code and figures associated with the manuscript:
 
